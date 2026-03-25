@@ -19,8 +19,8 @@ LuCI 高级设置插件，提供系统配置、网络设置、防火墙等功能
 
 ## 系统要求
 
-- OpenWrt 19.07 或更高版本
-- LuCI 19.07+ Web 界面
+- OpenWrt 23.* 或更高版本
+- LuCI 23.* + Web 界面
 
 ## 安装
 
@@ -110,9 +110,5 @@ Apache License 2.0
 - 标准化代码结构
 - 修复 uci-defaults 脚本
 - 添加中文 README
-
-### 之前版本
-
-- 原始版本发布
 
 </small>
